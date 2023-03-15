@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+}
+
+#btn0{
+    padding: 8px;
+width: 126px;
+border-radius: 8px;
+background: linear-gradient(311.21deg, #455DAA 29.93%, #45C6E7 89%);
+color: white;
+border-style: none;
+cursor: pointer;
+margin-left: 25px;
+font-family: poppins;
+
+}
+.nav-link{
+    color: rgb(10, 10, 94);
+}
+.nav-item{
+    color: rgb(7, 7, 78);
+    font-weight: 500;
+    padding-left: 25px;
+    pointer-events: none;
+}
+
+.main{
+    background: url(img/Polygo3.png)no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 140px;
+}
+
+ul.navbar-nav.mr-auto :hover{
+    color: rgb(7, 7, 78);
+}
+
+.main h1{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+color: #252525;
+padding-bottom: 15px;
+}
+.main p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #818695;
+}
+.setpad {
+    padding-top: 286px;
+}
+nav.navbar.navbar-expand-lg {
+    position: absolute;
+}
+
+.main1{
+    box-shadow: 0px 0px 45px rgb(0 0 0 / 8%);
+    border-radius: 12px;
+    padding: 27px 0px;
+}
+.imgsets {
+    display: flex;
+    gap: 75px;
+    padding-left: 15px;
+}
+
+
+.main2 h2{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #252525;
+}
+.main2 p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #818695;
+padding-top: 20px;
+}
+.setpad1{
+    padding-left: 29px;
+}
+section.main2 {
+    padding-top: 95px;
+}
+#btn1{
+    width: 148px;
+    background: linear-gradient(311.21deg, #455DAA 29.93%, #45C6E7 89%);
+    border-radius: 8px;
+    border: none;
+    color: white;
+    margin: 39px 0px 0px 0px;
+    padding: 10px;
+}
+.main3{
+    padding-bottom: 30px;
+    background: #45c6e70a;
+}
+.main3 h2{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #252525;
+    padding: 70px;
+    
+}
+#home{
+    width: 100%;
+    padding-top: 60px;
+}
+h2#lorem {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #252525;
+    padding: 0px;
+}
+
+.homeless {
+    position: sticky;
+    width: 90%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 18px 0px 12px 10px;
+    margin: -47px 0px -3px 16px;
+}
+#btn2{
+padding: 7px 15px 10px 14px;
+background: linear-gradient(311.21deg, #455DAA 29.93%, #45C6E7 89%);
+border-radius: 8px;
+border-style: none;
+color: white;
+
+}
+.mainbtn2 {
+    text-align: center;
+    margin: 62px;
+}
+
+.main4 h1{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+text-align: center;
+padding-top: 80px;
+margin-bottom: 37px;
+
+}
+.main4 p{
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+color: #818695;
+}
+
+.main5{
+    background-color: #03144D;
+    padding-top: 76px;
+    margin-top: 60px;
+}
+.main5 #para{
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #818695;
+    margin-top: 30px;    
+}
+.main5 h1{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #FFFFFF;
+padding-bottom: 10px;
+padding-top: 65px;
+
+}
+.main5 span{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #FFFFFF;
+}
+#about {
+    color: #818695;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    list-style: none;
+}
+.main5 p{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+margin: 0px;
+}
+.setflex {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 25px;
+}
+.info {
+    padding: 0px 60px;
+}
+
+.liny{
+    padding-top: 0.5px;
+    background-color: #989898;
+    margin-top: 100px;
+}
+p.copyrightline{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 70px;
+text-align: center;
+
+}
